@@ -1,0 +1,16 @@
+TCV - Traffic Characterization Vectors
+Copyright (c) 2026 Alfan Presekal (apresekal)
+https://github.com/apresekal/TCV
+
+This project provides reproducibility code for:
+Alfan Presekal and Ruki Harwahyu,
+"Label-Efficient and Leakage-Aware Intrusion Detection for IoT Edge
+Monitoring Using Traffic Characterization Vectors,"
+manuscript under revision for IEEE Access, 2026.
+
+The original TCV code and documentation are licensed under Apache License 2.0.
+The vendored AfterImage.py and netStat.py files originate from Yisroel Mirsky's
+Kitsune-py project and retain their original MIT license and copyright notices.
+See vendor/Kitsune-py/LICENSE.
+
+This notice provides attribution and does not modify the Apache License.

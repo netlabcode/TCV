@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use TCV in your research, please cite the related paper and acknowledge the software."
+title: "TCV: reproducible Traffic Characterization Vector experiments"
+type: software
+authors:
+  - family-names: Presekal
+    given-names: Alfan
+    alias: apresekal
+    orcid: "https://orcid.org/0000-0002-8323-2856"
+repository-code: "https://github.com/apresekal/TCV"
+license: Apache-2.0
+license-url: "https://github.com/apresekal/TCV/blob/main/LICENSE"
+preferred-citation:
+  type: unpublished
+  title: "Label-Efficient and Leakage-Aware Intrusion Detection for IoT Edge Monitoring Using Traffic Characterization Vectors"
+  authors:
+    - family-names: Presekal
+      given-names: Alfan
+    - family-names: Harwahyu
+      given-names: Ruki
+  year: 2026
+  notes: "Manuscript under revision for IEEE Access; publication details pending."
