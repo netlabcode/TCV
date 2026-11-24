@@ -32,5 +32,5 @@ raw record, prediction archive, credential or private absolute path is included
 in the intended Git file set. The local Python environment is ignored by Git.
 
 The repository uses branch `main` and remote
-`https://github.com/apresekal/TCV.git`. The checks above describe local release
+`https://github.com/netlabcode/TCV.git`. The checks above describe local release
 verification, independently of repository publication.

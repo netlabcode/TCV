@@ -6,8 +6,8 @@ Core reproducibility code by **Alfan Presekal (`apresekal`)** for:
 > Detection for IoT Edge Monitoring Using Traffic Characterization Vectors*.
 > Manuscript under revision for IEEE Access (2026).
 
-Intended repository: https://github.com/apresekal/TCV. This local release does
-not imply that the GitHub repository has already been published.
+Repository: https://github.com/netlabcode/TCV. Hosted under `netlabcode`;
+code author: Alfan Presekal (`apresekal`).
 
 TCV represents a directed traffic edge with six statistics: content deviation,
 timing deviation, size/timing dispersion, packet-size distribution deviation,

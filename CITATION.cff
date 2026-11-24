@@ -7,9 +7,9 @@ authors:
     given-names: Alfan
     alias: apresekal
     orcid: "https://orcid.org/0000-0002-8323-2856"
-repository-code: "https://github.com/apresekal/TCV"
+repository-code: "https://github.com/netlabcode/TCV"
 license: Apache-2.0
-license-url: "https://github.com/apresekal/TCV/blob/main/LICENSE"
+license-url: "https://github.com/netlabcode/TCV/blob/main/LICENSE"
 preferred-citation:
   type: unpublished
   title: "Label-Efficient and Leakage-Aware Intrusion Detection for IoT Edge Monitoring Using Traffic Characterization Vectors"

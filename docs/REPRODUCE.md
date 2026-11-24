@@ -111,9 +111,8 @@ the other experiment families. Compare generated results with the paper.
 - Missing LightGBM runtime on Linux: install the platform's OpenMP runtime.
 - Never load pickle caches from an untrusted source. This release contains none.
 
-## Publishing this repository
+## Repository
 
-The local repository is prepared for `https://github.com/apresekal/TCV`.
-After reviewing the files and creating the empty GitHub repository, the owner
-can commit and push. Dataset folders, local environments and run outputs are
-ignored. The preparation process does not publish or push anything.
+Source code: https://github.com/netlabcode/TCV.
+Dataset folders, local environments and generated run outputs are ignored by Git.
+Record the repository commit alongside each experiment run.
